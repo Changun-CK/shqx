@@ -1,0 +1,1 @@
+killall ftpgetfiles crtsurfdata psurfdata deletetables wgetrain24 wgettemp24 pzhrain24file
